@@ -11,6 +11,8 @@ p { font-size: 20px;
 }
 strong{ color: rgba(0, 0, 255, 0.637)}
 
-
+#cabeçalho {
+    width: 100%;
+}
 
 
